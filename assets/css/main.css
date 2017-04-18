@@ -1,0 +1,24 @@
+.cuadrito{
+width:50px;
+height:50px;
+border:solid thin;
+float:left;
+background-color: #D4E6F1;
+margin: 0px 0px 9px 9px;
+position: relative;
+}
+#contenedor{
+  width:auto;
+  height:63px;
+  border:solid thin;
+  float:left;
+  padding:10px 10px 0px 0px;
+  background-color: #D4E6F1;
+  margin-left: 9px;
+  margin-bottom:10px;
+
+
+}
+.limpiar{
+  clear:both;
+}
